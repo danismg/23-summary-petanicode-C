@@ -39,6 +39,6 @@ NIM_Pempros/
 |   └── fileN.txt
 └── ..../
 ```
-Silahkan dikumpul sebelum Senin, 26 Januari 2024 pukul 12.00 WIB : 
+Silahkan dikumpul sebelum Senin, 26 Januari 2024 pukul 12.00 WIB. Terima kasih 🚀🚀
 
 
