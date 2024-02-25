@@ -23,6 +23,7 @@ Belajar Pemrograman C :
 <h3>Berikut adalah format file yang harus dibuat :</h3>
 
 ```
+README.md
 NIM_Pempros/
 │
 └── Struktur Dasar Penulisan Program C/
