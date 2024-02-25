@@ -1,4 +1,4 @@
-# 23-summary-petanicode
+# 23-summary-petanicode 🚀🚀
 
 ## Tuliskan code yang ada pada materi petani code ! [Click here](https://www.petanikode.com/tutorial/c/).
 
